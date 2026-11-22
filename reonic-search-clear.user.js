@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Reonic – Suchfeld leeren (×)
-// @namespace    https://github.com/mod42/reonic-search-clear
-// @homepageURL  https://github.com/mod42/reonic-search-clear
-// @downloadURL  https://raw.githubusercontent.com/mod42/reonic-search-clear/main/reonic-search-clear.user.js
-// @updateURL    https://raw.githubusercontent.com/mod42/reonic-search-clear/main/reonic-search-clear.user.js
-// @version      1.0
+// @namespace    https://github.com/mod42/installateur-userscripts
+// @homepageURL  https://github.com/mod42/installateur-userscripts
+// @downloadURL  https://raw.githubusercontent.com/mod42/installateur-userscripts/main/reonic-search-clear.user.js
+// @updateURL    https://raw.githubusercontent.com/mod42/installateur-userscripts/main/reonic-search-clear.user.js
+// @version      1.1
 // @description  Fügt Suchfeldern im Reonic-Portal ein kleines × zum Löschen des Suchbegriffs hinzu (zusätzlich: Esc leert das Feld).
 // @match        https://portal.reonic.de/*
 // @run-at       document-idle
